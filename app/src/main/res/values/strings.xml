@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Website</string>
+    <string name="loading">Loading , Please Wait...\n\u00a9 Website \nDev. By Abhishek Gupta</string>
+    <string name="url">https://www.google.com/</string>
+</resources>
