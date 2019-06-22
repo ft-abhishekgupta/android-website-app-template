@@ -1,7 +1,11 @@
 # Template for Android App for a Website
 ![](./logo.png) 
 
-
+## Features
+* URL Bar will not be visible to give better feel of mobile application
+* Custom Loading Screen 
+* Custom Page for No Internet Connection
+* Pull Down to Refresh Integrated
 ## To Run App
 1. Download ```APP-APK.apk``` [Download Link](https://raw.githubusercontent.com/ft-abhishekgupta/android-website-app-template/master/APP-APK.apk "Direct Download")
 1. Install on Android Device and run.
@@ -15,7 +19,7 @@
 
 ## Modify App for your own website 
 1. Modify values in ```strings.xml``` file with your own website name and url.
-1. Generate Icons at https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html and paster them in **res** folder
+1. Generate Icons at https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html and paste them in **res** folder
 1. Also replace logo.png in **res/drawable** folder 
 1. Build and run. ```Your App is Ready```
 
